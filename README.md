@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on security.
-- 📫 How to reach me: dm me here
+- 📫 How to reach me: lukas.arg@gmail.com
 
 <!---
 lucas8ab/lucas8ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
